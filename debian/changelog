@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+mesa-amber (21.3.9-1) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Initial upload. (Closes: #1006202)
+  * New upstream release.
+  * control: Fix libgl1-amber-dri description.
+  * rules: Drop i915. (LP: #2006744)
+  * amber.diff: Dropped, upstream.
+  * copyright: Updated.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 09 Feb 2023 20:24:53 +0200
